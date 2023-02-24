@@ -5,7 +5,7 @@
 <!--
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on **CPP_MODULE**
+- 🔭 I’m currently working on **CPP_modules**
 - 🌱 I’m currently learning **the C++ Language**
 - 📫 How to reach me: <marwan.ayoub.pro@gmail.com>
 
