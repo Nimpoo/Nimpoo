@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on **WebServ**
-- 🌱 I’m currently learning **How to work a HTTP web server**
+- 🌱 I’m currently learning **How an HTTP web server works**
 - 📫 How to reach me: <marwan.ayoub.pro@gmail.com>
 
 ## About me
