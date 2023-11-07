@@ -5,8 +5,8 @@
 <!--
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on **WebServ**
-- 🌱 I’m currently learning **How an HTTP web server works**
+- 🔭 I’m currently working on **ft_transcendence**
+- 🌱 I’m currently learning **Django Framework**
 - 📫 How to reach me: <marwan.ayoub.pro@gmail.com>
 
 ## About me
