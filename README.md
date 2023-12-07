@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on **ft_transcendence**
-- 🌱 I’m currently learning **Django Framework**
+- 🌱 I’m currently learning **NextJS and React**
 - 📫 How to reach me: <marwan.ayoub.pro@gmail.com>
 
 ## About me
