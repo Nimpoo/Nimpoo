@@ -5,8 +5,8 @@
 <!--
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on **[ft_transcendence](https://github.com/Nimpoo/ft_transcendence)**
-- 🌱 I’m currently learning **NextJS and React**
+- 🔭 I’m currently working on **[rainfall](https://github.com/Nimpoo/rainfall)**
+- 🌱 I’m currently learning **Buffer Overflow and Exploiting `C` programsm**
 - 📫 How to reach me: <marwan.ayoub.pro@gmail.com>
 
 ## About me
