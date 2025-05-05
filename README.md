@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on **Active Directory**
-- 🌱 I’m currently learning **the job of a SysAdmin**
+- 🌱 I’m currently learning **the job of a SysAdmin AND DevOps**
 - 📫 How to reach me: <marwan.ayoub.pro@gmail.com>
 
 ## About me
