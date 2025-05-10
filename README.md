@@ -1,22 +1,17 @@
-# Hi ! I'm Marwan Ayoub, 👾
+# Hi ! I'm Marwan Ayoub 👾,
 
 ## A computer programming student at 42 Nice ⛱.
 
 <!--
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on **Active Directory**
-- 🌱 I’m currently learning **the job of a SysAdmin AND DevOps**
-- 📫 How to reach me: <marwan.ayoub.pro@gmail.com>
+- 🔭 I’m currently working on **Active Directory** (and maining **[Azucena on Tekken 8](https://fr.bandainamcoent.eu/tekken/tekken-8/characters/azucena-milagros-ortiz-castillo)**, I am ranked `Assailant`)
+- 🌱 I’m currently learning **the job of a SysAdmin AND DevOps** (and **Unity** for making video games)
+- 📫 How to reach me: <marwan.ayoub.pro@gmail.com> ([Discord](https://discord.com/channels/410390554212564992) and [PlayStation](https://profile.playstation.com/Nimpo__))
 
 ## About me
-I discovered the world of Code and Programation at 42 School in Nice and i become a computer enthusiast. I am currently based in Nice in France #FrenchRiviera 🌊☀️⛱. Thirst of knowledge, I'm constantly on the quest to quench this thirst and every single day I try to deepen my knowledge and improve my skills. 
+Passionate about programming and video games, and a budding professional in the world of DevOps, I spend my time exploring new interests and improving in the areas I am most passionate about. As a student at 42 Nice, it is here that I discovered the world of programming, shaping who I have become today: a code enthusiast, a technology lover, and above all, a fan of **<u>automation<u/>**.
 
-- ⚡ Fun fact: **I LOVE VIDEO GAMES**
-
-
-## And here a brief summary of my student profile at 42
-[![mayoub's 42 stats](https://badge42.vercel.app/api/v2/cl4la6pb8001109mjpvay2o66/stats?cursusId=21&coalitionId=122)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 - 👯 I’m looking to collaborate on ...
