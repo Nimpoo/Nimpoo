@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on **Active Directory** (and maining **[Azucena on Tekken 8](https://fr.bandainamcoent.eu/tekken/tekken-8/characters/azucena-milagros-ortiz-castillo)**, I am ranked `Assailant`)
 - 🌱 I’m currently learning **the job of a SysAdmin AND DevOps** (and **Unity** for making video games)
-- 📫 How to reach me: <marwan.ayoub.pro@gmail.com> ([Discord](https://discordapp.com/users/USERID/410390554212564992) and [PlayStation](https://profile.playstation.com/Nimpo__))
+- 📫 How to reach me: <marwan.ayoub.pro@gmail.com> ([Discord](https://discordapp.com/users/410390554212564992) and [PlayStation](https://profile.playstation.com/Nimpo__))
 
 ## About me
 Passionate about programming and video games, and a budding professional in the world of DevOps, I spend my time exploring new interests and improving in the areas I am most passionate about. As a student at 42 Nice, it is here that I discovered the world of programming, shaping who I have become today: a code enthusiast, a technology lover, and above all, a fan of **<u>automation<u/>**.
