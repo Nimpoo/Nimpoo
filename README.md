@@ -49,7 +49,6 @@
     <td align="center" valign="middle">
       <img src="assets/devops/Docker.svg" width="60" alt="Docker" />
       <img src="assets/devops/Kubernetes.svg" width="60" alt="Kubernetes" />
-      <img src="assets/devops/K3s.svg" width="60" alt="K3s"/>
       <img src="assets/devops/HashiCorp%20Vagrant.svg" width="60" alt="Vagrant" />
       <img src="assets/devops/Argo%20CD.svg" width="60" alt="Argo CD"/>
       <img src="assets/devops/Ansible.svg" width="60" alt="Ansible"/>
