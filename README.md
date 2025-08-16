@@ -81,13 +81,13 @@
 
 <table align="right">
   <tr>
-    <td align="center" valign="middle" width="410">
+    <td align="center" valign="middle" width="375">
       <img src="assets/web/JavaScript.svg" width="60" alt="JavaScript" />
       <img src="assets/web/TypeScript.svg" width="60" alt="TypeScript" />
       <img src="assets/web/HTML5.svg" width="60" alt="HTML5" />
       <img src="assets/web/CSS3.svg" width="60" alt="CSS3" />
     </td>
-    <td align="center" valign="middle" style="font-size: 30px;" width="275">
+    <td align="center" valign="middle" style="font-size: 30px;" width="250">
       Web Languages
     </td>
   </tr>
