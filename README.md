@@ -81,7 +81,7 @@
 
 <table align="right">
   <tr>
-    <td align="center" valign="middle" width="370">
+    <td align="center" valign="middle" width="350">
       <img src="assets/web/JavaScript.svg" width="60" alt="JavaScript" />
       <img src="assets/web/TypeScript.svg" width="60" alt="TypeScript" />
       <img src="assets/web/HTML5.svg" width="60" alt="HTML5" />
