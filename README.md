@@ -77,7 +77,7 @@
   </ul>
 </div>
 
-<img align="left" src="assets/strawhat.gif" width="265">
+<img align="left" src="assets/strawhat.gif" width="250">
 
 <table align="right">
   <tr>
