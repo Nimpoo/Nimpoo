@@ -27,7 +27,7 @@
   </ul>
 </div>
 
-<img align="right" src="assets/keyblade.gif">
+<img align="right" src="assets/keyblade.gif" width="200">
 
 <table>
   <tr>
@@ -77,7 +77,7 @@
   </ul>
 </div>
 
-<img align="left" src="assets/strawhat.gif" width="250">
+<img align="left" src="assets/strawhat.gif" width="200">
 
 <table align="right">
   <tr>
