@@ -8,7 +8,7 @@
 
 <div id="user-content-toc">
 	<ul align="center" style="list-style: none;">
-		<img src="assets/Garp.gif" />
+		<img src="assets/Garp.gif" alt="Monkey D. Garp" />
 		<summary>
 			<h2>Computer programming student at 42 Nice ⛱👒</h2><br />
 			<h2>DevOps Apprentice at Amadeus ✈️🌍</h2><br />
@@ -27,7 +27,7 @@
   </ul>
 </div>
 
-<img align="right" src="assets/keyblade.gif" width="200">
+<img align="right" src="assets/keyblade.gif" alt="Kingdom Key" width="200">
 
 <table>
   <tr>
@@ -77,7 +77,7 @@
   </ul>
 </div>
 
-<img align="left" src="assets/strawhat.gif" width="200">
+<img align="left" src="assets/strawhat.gif" alt="Straw Hat 🏴‍☠️" width="200">
 
 <table align="right">
   <tr>
@@ -140,13 +140,16 @@
   </ul>
 </div>
 
-<img align="right" src="assets/Miles%20Mojares.gif" width="200">
+<img align="right" src="assets/Miles%20Mojares.gif" alt="Miles Mojares" width="200">
 
 As a student at 42 Nice, it was here that I discovered the world of programming. Embarking on my journey in the world of <ins>**DevOps**</ins>, this adventure is shaping who I am becoming: **a code enthusiast, a technology lover, and above all, a fan of automation**.
 
-<br />
+Besides my work, I am a huge video game enthusiast and player, and a huge fan of <ins>**versus fighting**</ins>. I'm currently focusing on **Tekken 8** ([**Nimpo__**](https://profile.playstation.com/Nimpo__) on **Playstantion Network**).
 
-Besides my work, I am a huge video game enthusiast and player, and a huge fan of <ins>**versus fighting**</ins>. I focus on **Tekken 8** while maining [**Azucena 🦙**](https://fr.bandainamcoent.eu/tekken/tekken-8/characters/azucena-milagros-ortiz-castillo).
+## You can reach me:
+[![marwan.ayoub.pro@gmail.com](https://skillicons.dev/icons?i=gmail)](mailto:marwan.ayoub.pro@gmail.com)
+[![Marwan Ayoub](https://skillicons.dev/icons?i=linkedin)](mailto:marwan.ayoub.pro@gmail.com)
+[![Nimpô](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/410390554212564992)
 
 <!-- - 🔭 I’m currently working on **Kubernetes, Argo CD, and all other DevOps's tools you can imagine** (and maining **[Azucena on Tekken 8](https://fr.bandainamcoent.eu/tekken/tekken-8/characters/azucena-milagros-ortiz-castillo)**, I am ranked `Assailant`)
 - 🌱 I’m currently learning **the job of a DevOps** (and **Unity** for making video games)
