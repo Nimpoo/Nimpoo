@@ -144,12 +144,26 @@
 
 As a student at 42 Nice, it was here that I discovered the world of programming. Embarking on my journey in the world of <ins>**DevOps**</ins>, this adventure is shaping who I am becoming: **a code enthusiast, a technology lover, and above all, a fan of automation**.
 
-Besides my work, I am a huge video game enthusiast and player, and a huge fan of <ins>**versus fighting**</ins>. I'm currently focusing on **Tekken 8** ([**Nimpo__**](https://profile.playstation.com/Nimpo__) on **Playstantion Network**).
+Besides my work, I am a huge video game enthusiast and player, and a huge fan of <ins>**versus fighting games**</ins>. I'm currently focusing on **Tekken 8** ([**Nimpo__**](https://profile.playstation.com/Nimpo__) on **Playstantion Network**).
 
-## You can reach me:
-[![marwan.ayoub.pro@gmail.com](https://skillicons.dev/icons?i=gmail)](mailto:marwan.ayoub.pro@gmail.com)
-[![Marwan Ayoub](https://skillicons.dev/icons?i=linkedin)](mailto:marwan.ayoub.pro@gmail.com)
-[![Nimpô](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/410390554212564992)
+<div id="user-content-toc">
+  <ul align="left">
+    <summary>
+      <h3>You can contact me 🐌:</h3>
+    </summary>
+  </ul>
+</div>
+
+<a href="mailto:marwan.ayoub.pro@gmail.com" style="text-decoration: none">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" width="70" height="70" />
+</a>
+<a href="mailto:marwan.ayoub.pro@gmail.com" style="text-decoration: none">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="70" height="70" />
+</a>
+<a href="https://discordapp.com/users/410390554212564992" style="text-decoration: none">
+  <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" width="70" height="70" />
+</a>
+
 
 <!-- - 🔭 I’m currently working on **Kubernetes, Argo CD, and all other DevOps's tools you can imagine** (and maining **[Azucena on Tekken 8](https://fr.bandainamcoent.eu/tekken/tekken-8/characters/azucena-milagros-ortiz-castillo)**, I am ranked `Assailant`)
 - 🌱 I’m currently learning **the job of a DevOps** (and **Unity** for making video games)
