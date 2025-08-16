@@ -77,17 +77,17 @@
   </ul>
 </div>
 
-<img align="left" src="assets/strawhat.gif" width="275">
+<img align="left" src="assets/strawhat.gif" width="265">
 
 <table align="right">
   <tr>
-    <td align="center" valign="middle" width="375">
+    <td align="center" valign="middle" width="370">
       <img src="assets/web/JavaScript.svg" width="60" alt="JavaScript" />
       <img src="assets/web/TypeScript.svg" width="60" alt="TypeScript" />
       <img src="assets/web/HTML5.svg" width="60" alt="HTML5" />
       <img src="assets/web/CSS3.svg" width="60" alt="CSS3" />
     </td>
-    <td align="center" valign="middle" style="font-size: 30px;" width="250">
+    <td align="center" valign="middle" style="font-size: 30px;" width="245">
       Web Languages
     </td>
   </tr>
