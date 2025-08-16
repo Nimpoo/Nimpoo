@@ -87,7 +87,7 @@
       <img src="assets/web/HTML5.svg" width="60" alt="HTML5" />
       <img src="assets/web/CSS3.svg" width="60" alt="CSS3" />
     </td>
-    <td align="center" valign="middle" style="font-size: 30px;" width="230">
+    <td align="center" valign="middle" style="font-size: 30px;">
       Web Languages
     </td>
   </tr>
