@@ -11,7 +11,6 @@
 		<img src="assets/Garp.gif" alt="Monkey D. Garp" />
 		<summary>
 			<h2>Computer programming student at 42 Nice ⛱👒</h2><br />
-			<!-- <h2>DevOps Apprentice at Amadeus ✈️🌍</h2><br /> --!>
 			<h2>Video game enthusiast 🎮🕹️</h2>
 		</summary>
 	</ul>
