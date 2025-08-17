@@ -18,8 +18,8 @@
 
 #
 
-<div id="user-content-toc">
-  <ul align="left">
+<div align="left" id="user-content-toc">
+  <ul>
     <summary>
       <h1>My Technical Skills 🗝️</h1>
     </summary>
@@ -68,8 +68,8 @@
   </tr>
 </table>
 
-<div id="user-content-toc">
-  <ul align="right">
+<div align="right" id="user-content-toc">
+  <ul>
     <summary>
       <h1>Other Skills 👒</h1>
     </summary>
@@ -145,8 +145,8 @@ As a student at 42 Nice, it was here that I discovered the world of programming.
 
 Besides my work, I am a huge video game enthusiast and player, and a huge fan of <ins>**versus fighting games**</ins>. I'm currently focusing on **Tekken 8** ([**Nimpo__**](https://profile.playstation.com/Nimpo__) on **Playstantion Network**).
 
-<div id="user-content-toc">
-  <ul align="left">
+<div align="left" id="user-content-toc">
+  <ul>
     <summary>
       <h3>You can contact me 🐌:</h3>
     </summary>
