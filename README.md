@@ -1,13 +1,13 @@
-<div id="user-content-toc">
-  <ul align="center" style="list-style: none;">
+<div align="center" id="user-content-toc">
+  <ul style="list-style: none;">
     <summary>
       <h1>Hi ! I'm Nimpô ! 👾</h1>
     </summary>
   </ul>
 </div>
 
-<div id="user-content-toc">
-	<ul align="center" style="list-style: none;">
+<div align="center" id="user-content-toc">
+	<ul style="list-style: none;">
 		<img src="assets/Garp.gif" alt="Monkey D. Garp" />
 		<summary>
 			<h2>Computer programming student at 42 Nice ⛱👒</h2><br />
