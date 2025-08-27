@@ -153,13 +153,13 @@ Besides my work, I am a huge video game enthusiast and player, and a huge fan of
   </ul>
 </div>
 
-<a href="mailto:marwan.ayoub.pro@gmail.com" style="text-decoration: none">
+<a href="mailto:marwan.ayoub.pro@gmail.com" target="_blank" style="text-decoration: none">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="marwan.ayoub.pro@gmail.com" width="70" height="70" />
 </a>
-<a href="https://www.linkedin.com/in/mar-ayb/" style="text-decoration: none">
+<a href="https://www.linkedin.com/in/mar-ayb/" target="_blank" style="text-decoration: none">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="Marwan Ayoub" width="70" height="70" />
 </a>
-<a href="https://discordapp.com/users/410390554212564992" style="text-decoration: none">
+<a href="https://discordapp.com/users/410390554212564992" target="_blank" style="text-decoration: none">
   <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Nimpô" width="70" height="70" />
 </a>
 
