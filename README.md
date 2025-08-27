@@ -141,7 +141,7 @@
 
 <img align="right" src="assets/Miles%20Morales.gif" alt="Miles Morales" width="200">
 
-As a student at 42 Nice, it was here that I discovered the world of programming. Embarking on my journey in the world of <ins>**DevOps**</ins>, this adventure is shaping who I am becoming: **a code enthusiast, a technology lover, and above all, a fan of automation**.
+As a student at [42 Nice](https://42nice.fr/en/homepage/), it was here that I discovered the world of programming. Embarking on my journey in the world of <ins>**DevOps**</ins>, this adventure is shaping who I am becoming: **a code enthusiast, a technology lover, and above all, a fan of automation**.
 
 Besides my work, I am a huge video game enthusiast and player, and a huge fan of <ins>**versus fighting games**</ins>. I'm currently focusing on **Tekken 8** ([**Nimpo__**](https://profile.playstation.com/Nimpo__) on **Playstantion Network**).
 
