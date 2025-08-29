@@ -106,7 +106,7 @@
   <tr>
     <td align="center" valign="middle">
       <img src="assets/databases/SQLite.svg" width="60" alt="SQLite" />
-      <img src="assets/databases/PostgresSQL.svg" width="60" alt="PostgresSQL" />
+      <img src="assets/databases/PostgreSQL.svg" width="60" alt="PostgresSQL" />
       <img src="assets/text-editors/Visual%20Studio%20Code%20(VS%20Code).svg" width="60" alt="Visual Studio Code" />
       <img src="assets/text-editors/Vim.svg" width="60" alt="Vim" />
       <img src="assets/game-engine/Unity.svg" width="60" alt="Unity" />
